@@ -8,7 +8,7 @@ import Debugging_and_Testing from './Images/Debugging and Testing.png';
 import Deployment_and_Maintenance from './Images/Deployment and Maintenance.png';
 import Project1 from './Images/Project1.jpg';
 import Project2 from './Images/Project2.jpg';
-import Project3 from './Images/Project3.jpeg';
+import Project3 from './Images/Project3.jpg';
 import Project4 from './Images/Project4.jpg';
 import Project5 from './Images/Project5.jpg';
 import Project6 from './Images/Project6.jpg';
