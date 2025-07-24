@@ -41,10 +41,10 @@ const About = () => {
 
           <div className="bg-pink-700 w-[100px] h-[3px] "></div>
           <p className='text-gray-600 font-medium lgl:w-[566px] mt-5 text-2xl  '>
-            Hello, my name is Diaa Abdel Mahdi, Egyptian. I'm 20 years old and a second-year cybersecurity student at
-            the University of Saxony in Cairo, Egypt. I'm a freelance web developer with one year of experience. I work by the hour,
-            and my rate is $20 per hour. If you need a unique website or e-commerce site for your company or organization, please contact
-            me via email, WhatsApp, or social media.
+            Hello, my name is Diaa Abdulmahdy. I'm 20 years old and live in Giza, Egypt. I'm a second-year student at the Faculty of Computer Science
+             and Information Technology at Cairo University, majoring in cybersecurity. I have two years of experience in web and front-end development
+              using React JS and Tailwind CSS. I build e-commerce websites for platforms like Udemy, Coursera, and Khamsat, and I work with APIs, 
+              the axsio Redux toolkit, and React Router.
           </p>
         </div>
 
@@ -112,7 +112,7 @@ const About = () => {
             </h1>
 
             <h4 className='uppercase text-lg font-bold text-neutral-500 m-5'>
-              A second-year undergraduate student at the University of Saxony
+             Cairo University, Faculty of Computer Science and Information Technology
               <br />
               majoring in Cybersecurity in Cairo, Egypt.
             </h4>
@@ -143,7 +143,7 @@ const About = () => {
             </p>
 
             <p className='text-neutral-500 m-5'>
-            HTML, CSS, Bootstrap, JavaScript, DOM, ES6, API, TailwindCSS, React.js, React Router, Redux Toolkit, Axios , ContextAPI, Firebase, Formk
+            HTML, CSS, Bootstrap, JavaScript, DOM, ES6, API, TailwindCSS, React.js, React Router, Redux Toolkit, Axios , ContextAPI, Firebase, Formk 
               <br />
 
 
@@ -160,7 +160,7 @@ const About = () => {
 
 
             <h4 className='uppercase text-lg text-neutral-500 font-bold m-5'>
-              junior 1 year front end experience
+              junior 2 year front end experience
             </h4>
 
             <p className='italic text-neutral-500 m-5'>
