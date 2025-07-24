@@ -25,7 +25,7 @@ const Home = () => {
           <h1>
             Welcome I'am Diaa Abdulmahdy
             <br />
-            <span className="flex justify-center ">Front-end Freelancer</span>
+            <span className="flex justify-center ">Front-end Developer</span>
           </h1>
         </div>
       </div>
