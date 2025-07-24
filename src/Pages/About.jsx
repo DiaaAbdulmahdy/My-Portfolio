@@ -138,8 +138,9 @@ const About = () => {
 
 
             <p className='italic text-neutral-500 m-5'>
-              Abdul Rahman Alaa Camp 2024
-
+           Front-End Development Bootcamp
+           <br />
+              Skills Area
             </p>
 
             <p className='text-neutral-500 m-5'>
