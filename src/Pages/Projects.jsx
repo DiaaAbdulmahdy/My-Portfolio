@@ -71,7 +71,7 @@ const Projects = () => {
                     <h1 className='text-3xl font-bold font-serif py-5'>Fourth Project</h1>
                     <p className='font-serif text-neutral-600 py-2'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto facere vero consectetur itaque molestiae 
                       perspiciatis porro alias iure exercitationem quibusdam?</p>
-                      <NavLink target='_blank' className={'text-red-700 font-serif font-bold text-2xl'} to={'https://modest-ramanujan-f625b4.netlify.app/'}>
+                      <NavLink target='_blank' className={'text-red-700 font-serif font-bold text-2xl'} to={'https://booking-five-alpha.vercel.app/'}>
                       View
                       </NavLink>
                   </div> 
